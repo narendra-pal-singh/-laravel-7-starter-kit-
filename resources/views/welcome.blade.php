@@ -94,6 +94,13 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <br>
+                <div class="links">
+                    <a href="./about">About</a>
+                    <a href="./contactus">Contact us</a>
+                    <a href="./services">Services</a>
+                    
+                </div>
             </div>
         </div>
     </body>
