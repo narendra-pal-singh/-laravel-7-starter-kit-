@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Starter Kit Stage 2
+                    Laravel Starter Kit Stage 3
                 </div>
 
                 <div class="links">
