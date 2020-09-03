@@ -1,25 +1,15 @@
 # laravel-7-starter-kit
 
-Master:
-    Basic features of site using Laravel 7
-        : User -> Login,Signup,Forgot
-        : Defaul Pages -> About us, Contact, Privacy
-        : Post  -> Create, View, Edit, Delete
-        : Admin -> User, Post Manangement
-        
-Stage-0
-    Fresh Copy Laravel 7
+Setup install UI Package and created User login,register,forgot and auth section
 
-Stage-1
-    Created Default pages of Site
-    
-Stage-2
-    Uesr controller with laravel-ui
-    
-Stage-3
-    Post controller
-    
-Stage-4 
-    Admin Controller
-        
+What to do for this setup with fresh copy of laravel 7:
+
+    - composer require laravel/ui
+
+    - php artisan ui vue --auth
+
+    - npm install
+
+    - npm run dev   //It will create css and js assets 
+
     
