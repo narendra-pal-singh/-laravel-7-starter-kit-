@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    {{ config('app.name', 'Laravel Stage 2') }}
+                    Laravel Starter Kit Stage 2
                 </div>
 
                 <div class="links">
